@@ -18,7 +18,7 @@ Then, it is exactly just like the original [Play ReactiveMongo plugin](https://g
 
 ## Resources
 
-- [ReactiveMongo](https://reactivemongo.org)
+- [ReactiveMongo](http://reactivemongo.org)
 - [Original Play ReactiveMongo plugin](https://github.com/ReactiveMongo/Play-ReactiveMongo)
 - [Validation API](https://jto.github.io/validation)
 - [Play Framework](https://www.playframework.com)
